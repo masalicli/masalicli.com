@@ -1,9 +1,9 @@
-function HomePage() {
+function Home() {
   return (
     <div>
-      Hi my name is Masal (Fairy Tale) and I'm 6 years old
+      Selam Ben Masal ✌︎ ㋡. ⋆˚✿˖° 𐙚 ₊ ⊹ ♡. ♾. ˚ ༘♡ ⋆｡˚ ❀.
     </div>
   );
 }
 
-export default HomePage;
+export default Home;
