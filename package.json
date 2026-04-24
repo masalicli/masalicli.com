@@ -1,10 +1,10 @@
 {
   "name": "masalicli.com",
   "version": "0.0.1",
-  "description": "Personal web page",
+  "description": "Benim Kişisel Sitem",
   "main": "index.js",
   "repository": "https://github.com/masalicli/masalicli.com.git",
-  "author": "Yaşar İçli <yasaricli@gmail.com>",
+  "author": "Masal İçli <masalicli@gmail.com>",
   "license": "MIT",
   "scripts": {
     "dev": "next dev",
