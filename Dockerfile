@@ -1,5 +1,5 @@
 # ✅ Dockerfile for Next.js 12.1.x
-FROM node:18-alpine
+FROM --platform=linux/amd64 node:18-alpine
 
 WORKDIR /app
 
